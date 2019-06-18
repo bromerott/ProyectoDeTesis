@@ -1,0 +1,52 @@
+C:\Users\brome\Documents\ASP.NET Tesis\bin\Debug\netcoreapp2.1\ASP.NET Tesis.deps.json
+C:\Users\brome\Documents\ASP.NET Tesis\bin\Debug\netcoreapp2.1\ASP.NET Tesis.runtimeconfig.json
+C:\Users\brome\Documents\ASP.NET Tesis\bin\Debug\netcoreapp2.1\ASP.NET Tesis.runtimeconfig.dev.json
+c:\Users\brome\Documents\ASP.NET Tesis\bin\Debug\netcoreapp2.1\ASP.NET Tesis.dll
+c:\Users\brome\Documents\ASP.NET Tesis\bin\Debug\netcoreapp2.1\ASP.NET Tesis.pdb
+C:\Users\brome\Documents\ASP.NET Tesis\bin\Debug\netcoreapp2.1\ASP.NET Tesis.Views.dll
+c:\Users\brome\Documents\ASP.NET Tesis\bin\Debug\netcoreapp2.1\ASP.NET Tesis.Views.pdb
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.csprojAssemblyReference.cache
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.csproj.CoreCompileInputs.cache
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.RazorAssemblyInfo.cache
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.RazorAssemblyInfo.cs
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.AssemblyInfoInputs.cache
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.AssemblyInfo.cs
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.TagHelpers.input.cache
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.TagHelpers.output.cache
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.RazorCoreGenerate.cache
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MainMenu.g.cshtml.cs
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.RazorTargetAssemblyInfo.cache
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.RazorTargetAssemblyInfo.cs
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.Views.pdb
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.dll
+c:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.pdb
+C:\Users\brome\Documents\ASP.NET Tesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.csproj.CopyComplete
+C:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\bin\Debug\netcoreapp2.1\ASP.NET Tesis.deps.json
+C:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\bin\Debug\netcoreapp2.1\ASP.NET Tesis.runtimeconfig.json
+C:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\bin\Debug\netcoreapp2.1\ASP.NET Tesis.runtimeconfig.dev.json
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\bin\Debug\netcoreapp2.1\ASP.NET Tesis.dll
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\bin\Debug\netcoreapp2.1\ASP.NET Tesis.pdb
+C:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\bin\Debug\netcoreapp2.1\ASP.NET Tesis.Views.dll
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\bin\Debug\netcoreapp2.1\ASP.NET Tesis.Views.pdb
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.csprojAssemblyReference.cache
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.csproj.CoreCompileInputs.cache
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.RazorAssemblyInfo.cache
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.RazorAssemblyInfo.cs
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.AssemblyInfoInputs.cache
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.AssemblyInfo.cs
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.TagHelpers.input.cache
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.TagHelpers.output.cache
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.RazorCoreGenerate.cache
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_MainMenu.g.cshtml.cs
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.RazorTargetAssemblyInfo.cache
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.RazorTargetAssemblyInfo.cs
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.Views.pdb
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.dll
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.pdb
+C:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.csproj.CopyComplete
