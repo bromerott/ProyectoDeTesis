@@ -52,3 +52,4 @@ c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\
 C:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\ASP.NET Tesis.csproj.CopyComplete
 c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\Razor\Views\Account\Login.g.cshtml.cs
 c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\Razor\Views\Predictions\Index.g.cshtml.cs
+c:\Users\brome\Documents\Proyecto Tesis\ProyectoDeTesis\obj\Debug\netcoreapp2.1\Razor\Views\Info\Index.g.cshtml.cs
