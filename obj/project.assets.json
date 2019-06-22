@@ -12343,11 +12343,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brome\\Documents\\Proyecto Tesis\\ProyectoDeTesis\\ASP.NET Tesis.csproj",
+      "projectUniqueName": "C:\\Users\\brome\\Documents\\Proyecto Tesis\\FrontApp Tesis\\ASP.NET Tesis.csproj",
       "projectName": "ASP.NET Tesis",
-      "projectPath": "C:\\Users\\brome\\Documents\\Proyecto Tesis\\ProyectoDeTesis\\ASP.NET Tesis.csproj",
+      "projectPath": "C:\\Users\\brome\\Documents\\Proyecto Tesis\\FrontApp Tesis\\ASP.NET Tesis.csproj",
       "packagesPath": "C:\\Users\\brome\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brome\\Documents\\Proyecto Tesis\\ProyectoDeTesis\\obj\\",
+      "outputPath": "C:\\Users\\brome\\Documents\\Proyecto Tesis\\FrontApp Tesis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

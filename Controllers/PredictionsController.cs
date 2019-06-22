@@ -17,6 +17,7 @@ namespace ASP.NET_Tesis
             p.CurrentPrice=19.5;
             p.PredictedPrice=19.2;
             p.Suggestion="SELL";
+            p.Accuracy=91.5;
             listaPredicciones.Add(p);
         }
         public ActionResult Index()
