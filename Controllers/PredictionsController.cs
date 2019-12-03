@@ -30,7 +30,6 @@ namespace ASP.NET_Tesis
                 p.CurrentPrice=currentPrice;
                 //Get Prediction from Web Server
                 p.PredictedPrice=getPrediction(ticker,precios);
-                p.Accuracy=95;
                 if (p.CurrentPrice>p.PredictedPrice){
                     p.Suggestion="SELL";
                 }else{

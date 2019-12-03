@@ -6,13 +6,11 @@ namespace ASP.NET_Tesis
         private double currentPrice;
         private double predictedPrice;
         private string suggestion;
-        private double accuracy;
 
         public string Suggestion { get => suggestion; set => suggestion = value; }
         public double PredictedPrice { get => predictedPrice; set => predictedPrice = value; }
         public double CurrentPrice { get => currentPrice; set => currentPrice = value; }
         public string CompanyName { get => companyName; set => companyName = value; }
         public int Id { get => id; set => id = value; }
-        public double Accuracy { get => accuracy; set => accuracy = value; }
     }
 }
