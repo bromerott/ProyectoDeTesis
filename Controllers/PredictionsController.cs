@@ -27,7 +27,7 @@ namespace ASP.NET_Tesis
                 //Get Current Price from Yahoo Finance
                 BindingList<Double> precios = getPriceFromTicker(ticker);
                 Double currentPrice = precios[precios.Count-1];
-                p.CurrentPrice=Math.Round(currentPrice,2);
+                p.CurrentPrice=currentPrice;
                 //Get Prediction from Web Server
                 p.PredictedPrice=getPrediction(ticker,precios);
                 p.Accuracy=95;
@@ -40,22 +40,27 @@ namespace ASP.NET_Tesis
             }
         }
         static Double getPrediction(String ticker,BindingList<Double> historico){
-            var client = new RestClient("http://demo1363691.mockable.io/stockPrediction/getNextFromHistory");
+            var client = new RestClient("http://3.220.201.212:5000/stockPrediction/getNextFromHistory");
             var request = new RestRequest(Method.POST);
+            request.AddHeader("Content-Type","application/json");
             JObject body = new JObject();
             body.Add("ticker",ticker);
             body.Add("api-key","MASTER");
             JArray hist = new JArray(historico);
             body.Add("historico",hist);
-            request.AddJsonBody(body);
+            request.AddParameter("applicationi/json; charset=utf-8",body.ToString(),ParameterType.RequestBody);
+            request.RequestFormat = DataFormat.Json;
+            Console.WriteLine(body);
             IRestResponse response = client.Execute(request);
+            Console.WriteLine("Respuesta:");
+            Console.Write(response);
             var jObject = JObject.Parse(response.Content);
-            Double prediction = Convert.ToDouble(jObject["prediction"]);
+            Double prediction = Math.Round(Convert.ToDouble(jObject["prediction"]),2);
             return prediction;
         }
         static BindingList<Double> getPriceFromTicker(String ticker){
             long timestamp = DateTimeOffset.UtcNow.ToUnixTimeSeconds();
-            long paststamp = timestamp-8640000;
+            long paststamp = timestamp-17280000;
             BindingList<Double> listaPrecios = new BindingList<Double>();
             var client = new RestClient("https://apidojo-yahoo-finance-v1.p.rapidapi.com/stock/v2/get-historical-data?frequency=1d&filter=split&period1="+paststamp+"&period2="+timestamp+"&symbol="+ticker);
             var request = new RestRequest(Method.GET);
@@ -65,7 +70,7 @@ namespace ASP.NET_Tesis
             var jObject = JObject.Parse(response.Content);
             var prices = jObject["prices"];
             for(int i =0;i<61;i++){
-                listaPrecios.Add(Convert.ToDouble(prices[i]["close"]));
+                listaPrecios.Add(Math.Round(Convert.ToDouble(prices[i]["close"]),2));
             }
             return listaPrecios;
         }
